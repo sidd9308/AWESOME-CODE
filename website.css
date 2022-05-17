@@ -1,0 +1,172 @@
+@font-face {
+    font-family: Adobe Clean;
+    src: url(/Fonts/AdobeClean-Regular.otf);
+}
+
+.container h2{
+    font-family: Adobe Clean;
+    margin-left: 4cm;
+}
+
+.container h2:hover{
+    cursor: pointer;
+}
+
+.container ul a li{
+    list-style: none;
+    font-family: Adobe Clean;
+    text-decoration: none;
+    float: left;
+    padding: 13px 50px;
+    font-size: 17px;
+    color: black;
+
+}
+
+.container ul a li:hover{
+    color: green;
+}
+
+.container ul{
+    margin-left: 10cm;
+    margin-top: -54.8px;
+}
+
+.btn{
+    font-size: 17px;
+    border: 2px solid orange;
+    font-family: Adobe Clean;
+    padding: 5px 10px;
+    text-align: center;
+    margin-top: 4px;
+    background-color: orange;
+    border-radius: 5px;
+    margin-left: 3px;
+}
+
+.banner1 p{
+    padding: 5px 7px;
+    width: 10cm;
+    font-family: Adobe Clean;
+    margin-left: 12.5cm;
+    color: black;
+    font-size: 20px;
+
+}
+
+.heading-b{
+    font-family: Adobe Clean;
+    text-align: center;
+}
+
+.cardimg{
+    height: 80px;
+}
+
+.banner1 i{
+    margin-left: 15px;
+    margin-right: 3px;
+}
+
+.banner1 h1{
+    font-family: Adobe Clean;
+    text-align: center;
+    margin-left: 13cm;
+    font-size: 40px;
+    margin-right: +12cm;
+}
+
+.icons{
+    margin-left: 14.1cm;
+}
+
+.btn{
+    cursor: pointer;
+}
+
+.banner1 p{
+    text-align: center;
+}
+
+.banner1{
+    position: absolute;
+    margin-top: -10cm;
+}
+
+.bannerimage{
+    height: 15cm;
+    margin-left: 10%;
+    border-radius: 10px;
+    margin-right: 50%;
+    
+}
+
+.course1{
+    border: 2px solid orange;
+    width: 5cm;
+    padding: 5px 7px;
+    text-align: center;
+    font-family: Adobe Clean;
+    border-radius: 8px;
+    margin-left: 5cm;
+}
+
+.down-a{
+    font-family: Adobe Clean;
+    color: blue;
+    cursor: pointer;
+    font-size: 18px;
+}
+
+.course2{
+    border: 2px solid blue;
+    width: 7cm;
+    text-align: center;
+    padding: 5px 7px;
+    border-radius: 8px;
+    margin-left: 15cm;
+    margin-top: -8.7cm;
+    font-family: Adobe Clean;
+}
+
+.course3{
+    border: 2px solid green;
+    width: 6cm;
+    text-align: center;
+    padding: 5pxm 7px;
+    font-family: Adobe Clean;
+    margin-left: 25cm;
+    margin-top: -8.7cm;
+    border-radius: 8px;
+}
+
+.heading-d{
+    color: white;
+    margin-left: 15.6cm;
+    font-family: Adobe Clean;
+}
+
+.down{
+    background-color: black;
+    padding: 13px 25px;
+}
+
+.down a{
+    color: white;
+    font-size: 20px;
+    display: block;
+    text-align: center;
+    padding: 10px;
+    font-family: Adobe Clean;
+    text-decoration: none;
+}
+
+.down a:hover{
+    color: green;
+}
+
+.note{
+    color: black;
+    font-family: Adobe Clean;
+    text-align: center;
+}
